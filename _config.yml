@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://ishell.github.io
+title: iShell's Blog
+subtitle: 懒!
+author: ishell
 simple_search: https://www.google.com/search
 description:
 
@@ -64,14 +64,14 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:
-github_repo_count: 0
+github_user: ishell
+github_repo_count: 5
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
 twitter_user:
-twitter_tweet_button: true
+twitter_tweet_button: false
 
 # Google +1
 google_plus_one: false
@@ -91,7 +91,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: ishell
 disqus_show_comment_count: false
 
 # Google Analytics
